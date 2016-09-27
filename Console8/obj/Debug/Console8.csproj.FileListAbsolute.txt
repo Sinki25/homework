@@ -1,0 +1,5 @@
+c:\users\котик\documents\visual studio 2015\Projects\Console8\Console8\bin\Debug\Console8.exe.config
+c:\users\котик\documents\visual studio 2015\Projects\Console8\Console8\bin\Debug\Console8.exe
+c:\users\котик\documents\visual studio 2015\Projects\Console8\Console8\bin\Debug\Console8.pdb
+c:\users\котик\documents\visual studio 2015\Projects\Console8\Console8\obj\Debug\Console8.exe
+c:\users\котик\documents\visual studio 2015\Projects\Console8\Console8\obj\Debug\Console8.pdb
