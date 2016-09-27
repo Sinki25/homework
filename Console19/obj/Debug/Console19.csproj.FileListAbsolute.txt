@@ -1,0 +1,5 @@
+c:\users\котик\documents\visual studio 2015\Projects\Console19\Console19\bin\Debug\Console19.exe.config
+c:\users\котик\documents\visual studio 2015\Projects\Console19\Console19\bin\Debug\Console19.exe
+c:\users\котик\documents\visual studio 2015\Projects\Console19\Console19\bin\Debug\Console19.pdb
+c:\users\котик\documents\visual studio 2015\Projects\Console19\Console19\obj\Debug\Console19.exe
+c:\users\котик\documents\visual studio 2015\Projects\Console19\Console19\obj\Debug\Console19.pdb
