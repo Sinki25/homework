@@ -1,0 +1,5 @@
+c:\users\котик\documents\visual studio 2015\Projects\ConsoleCifra8\ConsoleCifra8\bin\Debug\ConsoleCifra8.exe.config
+C:\Users\Котик\Documents\Visual Studio 2015\Projects\ConsoleCifra8\ConsoleCifra8\bin\Debug\ConsoleCifra8.exe
+C:\Users\Котик\Documents\Visual Studio 2015\Projects\ConsoleCifra8\ConsoleCifra8\bin\Debug\ConsoleCifra8.pdb
+C:\Users\Котик\Documents\Visual Studio 2015\Projects\ConsoleCifra8\ConsoleCifra8\obj\Debug\ConsoleCifra8.exe
+C:\Users\Котик\Documents\Visual Studio 2015\Projects\ConsoleCifra8\ConsoleCifra8\obj\Debug\ConsoleCifra8.pdb
