@@ -1,0 +1,5 @@
+c:\users\котик\documents\visual studio 2015\Projects\Console10\Console10\bin\Debug\Console10.exe.config
+c:\users\котик\documents\visual studio 2015\Projects\Console10\Console10\bin\Debug\Console10.exe
+c:\users\котик\documents\visual studio 2015\Projects\Console10\Console10\bin\Debug\Console10.pdb
+c:\users\котик\documents\visual studio 2015\Projects\Console10\Console10\obj\Debug\Console10.exe
+c:\users\котик\documents\visual studio 2015\Projects\Console10\Console10\obj\Debug\Console10.pdb
