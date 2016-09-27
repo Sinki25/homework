@@ -1,0 +1,6 @@
+c:\users\котик\documents\visual studio 2015\Projects\Console11\Console11\bin\Debug\Console11.exe.config
+c:\users\котик\documents\visual studio 2015\Projects\Console11\Console11\obj\Debug\Console11.csprojResolveAssemblyReference.cache
+c:\users\котик\documents\visual studio 2015\Projects\Console11\Console11\bin\Debug\Console11.exe
+c:\users\котик\documents\visual studio 2015\Projects\Console11\Console11\bin\Debug\Console11.pdb
+c:\users\котик\documents\visual studio 2015\Projects\Console11\Console11\obj\Debug\Console11.exe
+c:\users\котик\documents\visual studio 2015\Projects\Console11\Console11\obj\Debug\Console11.pdb
