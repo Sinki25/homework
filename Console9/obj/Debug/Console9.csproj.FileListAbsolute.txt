@@ -1,0 +1,6 @@
+c:\users\котик\documents\visual studio 2015\Projects\Console9\Console9\bin\Debug\Console9.exe.config
+c:\users\котик\documents\visual studio 2015\Projects\Console9\Console9\bin\Debug\Console9.exe
+c:\users\котик\documents\visual studio 2015\Projects\Console9\Console9\bin\Debug\Console9.pdb
+c:\users\котик\documents\visual studio 2015\Projects\Console9\Console9\obj\Debug\Console9.csprojResolveAssemblyReference.cache
+c:\users\котик\documents\visual studio 2015\Projects\Console9\Console9\obj\Debug\Console9.exe
+c:\users\котик\documents\visual studio 2015\Projects\Console9\Console9\obj\Debug\Console9.pdb
