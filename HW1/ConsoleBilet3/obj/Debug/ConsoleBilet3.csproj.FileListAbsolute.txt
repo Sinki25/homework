@@ -1,0 +1,6 @@
+c:\users\котик\documents\visual studio 2015\Projects\ConsoleBilet3\ConsoleBilet3\bin\Debug\ConsoleBilet3.exe.config
+C:\Users\Котик\Documents\Visual Studio 2015\Projects\ConsoleBilet3\ConsoleBilet3\bin\Debug\ConsoleBilet3.exe
+C:\Users\Котик\Documents\Visual Studio 2015\Projects\ConsoleBilet3\ConsoleBilet3\bin\Debug\ConsoleBilet3.pdb
+C:\Users\Котик\Documents\Visual Studio 2015\Projects\ConsoleBilet3\ConsoleBilet3\obj\Debug\ConsoleBilet3.csprojResolveAssemblyReference.cache
+C:\Users\Котик\Documents\Visual Studio 2015\Projects\ConsoleBilet3\ConsoleBilet3\obj\Debug\ConsoleBilet3.exe
+C:\Users\Котик\Documents\Visual Studio 2015\Projects\ConsoleBilet3\ConsoleBilet3\obj\Debug\ConsoleBilet3.pdb
