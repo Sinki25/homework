@@ -1,0 +1,6 @@
+c:\users\котик\documents\visual studio 2015\Projects\ConsoleP6\ConsoleP6\bin\Debug\ConsoleP6.exe.config
+C:\Users\Котик\Documents\Visual Studio 2015\Projects\ConsoleP6\ConsoleP6\bin\Debug\ConsoleP6.exe
+C:\Users\Котик\Documents\Visual Studio 2015\Projects\ConsoleP6\ConsoleP6\bin\Debug\ConsoleP6.pdb
+C:\Users\Котик\Documents\Visual Studio 2015\Projects\ConsoleP6\ConsoleP6\obj\Debug\ConsoleP6.csprojResolveAssemblyReference.cache
+C:\Users\Котик\Documents\Visual Studio 2015\Projects\ConsoleP6\ConsoleP6\obj\Debug\ConsoleP6.exe
+C:\Users\Котик\Documents\Visual Studio 2015\Projects\ConsoleP6\ConsoleP6\obj\Debug\ConsoleP6.pdb
