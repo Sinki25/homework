@@ -1,0 +1,6 @@
+c:\users\котик\documents\visual studio 2015\Projects\Console12\Console12\bin\Debug\Console12.exe.config
+c:\users\котик\documents\visual studio 2015\Projects\Console12\Console12\obj\Debug\Console12.csprojResolveAssemblyReference.cache
+c:\users\котик\documents\visual studio 2015\Projects\Console12\Console12\bin\Debug\Console12.exe
+c:\users\котик\documents\visual studio 2015\Projects\Console12\Console12\bin\Debug\Console12.pdb
+c:\users\котик\documents\visual studio 2015\Projects\Console12\Console12\obj\Debug\Console12.exe
+c:\users\котик\documents\visual studio 2015\Projects\Console12\Console12\obj\Debug\Console12.pdb
