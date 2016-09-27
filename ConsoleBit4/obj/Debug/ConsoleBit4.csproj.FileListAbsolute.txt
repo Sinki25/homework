@@ -1,0 +1,5 @@
+c:\users\котик\documents\visual studio 2015\Projects\ConsoleBit4\ConsoleBit4\bin\Debug\ConsoleBit4.exe.config
+c:\users\котик\documents\visual studio 2015\Projects\ConsoleBit4\ConsoleBit4\bin\Debug\ConsoleBit4.exe
+c:\users\котик\documents\visual studio 2015\Projects\ConsoleBit4\ConsoleBit4\bin\Debug\ConsoleBit4.pdb
+c:\users\котик\documents\visual studio 2015\Projects\ConsoleBit4\ConsoleBit4\obj\Debug\ConsoleBit4.exe
+c:\users\котик\documents\visual studio 2015\Projects\ConsoleBit4\ConsoleBit4\obj\Debug\ConsoleBit4.pdb
