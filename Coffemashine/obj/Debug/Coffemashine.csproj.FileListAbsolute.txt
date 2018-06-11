@@ -1,0 +1,6 @@
+C:\Users\Котик\Documents\Visual Studio 2017\Projects\Coffemashine\Coffemashine\bin\Debug\Coffemashine.exe.config
+C:\Users\Котик\Documents\Visual Studio 2017\Projects\Coffemashine\Coffemashine\bin\Debug\Coffemashine.exe
+C:\Users\Котик\Documents\Visual Studio 2017\Projects\Coffemashine\Coffemashine\bin\Debug\Coffemashine.pdb
+C:\Users\Котик\Documents\Visual Studio 2017\Projects\Coffemashine\Coffemashine\obj\Debug\Coffemashine.csprojResolveAssemblyReference.cache
+C:\Users\Котик\Documents\Visual Studio 2017\Projects\Coffemashine\Coffemashine\obj\Debug\Coffemashine.exe
+C:\Users\Котик\Documents\Visual Studio 2017\Projects\Coffemashine\Coffemashine\obj\Debug\Coffemashine.pdb
